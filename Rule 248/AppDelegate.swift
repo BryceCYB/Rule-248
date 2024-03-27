@@ -6,6 +6,9 @@
 //
 
 import UIKit
+import Alamofire
+import Kingfisher
+import PromiseKit
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
